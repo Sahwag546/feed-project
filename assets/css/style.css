@@ -255,6 +255,9 @@ height: 100px;
 width: 100px;
 margin: 11px;
 }
+.color-black{
+    color: black;
+}
 .text-2{
     font-family: Poppins;
         font-size: 36px;
