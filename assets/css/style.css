@@ -41,7 +41,7 @@ ul li {
 }
 
 ul li:hover {
-    transform: scale(1.5) !important;
+    transform: scale(1.2) !important;
 
 }
 
@@ -137,6 +137,7 @@ ul li:hover {
     line-height: 54px;
     text-align: center;
     max-width: 61px;
+    cursor: pointer;
 }
 
 .mt-40 {
@@ -161,6 +162,7 @@ ul li:hover {
     height: 100px;
     width: 100px;
     margin: 11px;
+    cursor: pointer;
 }
 
 .color-black {
@@ -180,7 +182,6 @@ ul li:hover {
 .heading-3 {
     font-family: Poppins;
     line-height: 36px;
-    padding-left: 23px;
 }
 
 .mw-553 {
@@ -307,6 +308,9 @@ ul li:hover {
 
 .my-8 {
     margin-top: 8px;
+}
+.date{
+    padding-left: 8px;
 }
 
 /*============footer-details=============*/
@@ -539,6 +543,9 @@ font-family: Poppins;
         position: absolute;
         left: -20%;
     }
+    .mb-lg{
+     margin-bottom: 50px;
+    }
 
     .box-1 {
         width: 100%;
@@ -702,6 +709,9 @@ font-family: Poppins;
         font-size: 30px;
         margin-top: 20px;
     }
+    .mt-lg{
+        margin-bottom: 65px;
+    }
 }
 @media (max-width:1200px) {
     nav{margin-top: 0;}
@@ -711,4 +721,10 @@ font-family: Poppins;
     .logo {
         font-size: 20px;
     }
+    .mb-sm{
+        margin-bottom: 45px;
+    }
+          .mt-lg {
+              margin-bottom: 15px;
+          }
 }
