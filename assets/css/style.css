@@ -742,6 +742,12 @@ footer {
     .mb-sm {
         margin-bottom: 45px;
     }
+    .mt-sm-30{
+       margin-top: 30px;
+    }
+    .mb-sm-30{
+        margin-bottom: 30px;
+    }
 
     .mt-lg {
         margin-bottom: 15px;
