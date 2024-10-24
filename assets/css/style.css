@@ -30,7 +30,8 @@ nav {
     font-family: Poppins;
     font-size: 16px;
     font-weight: 400;
-    line-height: 100px;
+    padding-top: 15px;
+    padding-bottom: 10px;
     text-align: left;
 }
 
@@ -329,7 +330,7 @@ ul li:hover {
 
 /*============footer-details=============*/
 footer {
-    min-height: 60vh;
+    
     background-color: black;
 }
 
