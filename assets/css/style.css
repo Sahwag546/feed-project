@@ -444,6 +444,10 @@ font-size: 20px;
 font-weight: 400;
 line-height: 30px;
 text-align: left;
+padding-right: 50px;
+position: relative;
+top: 10px;
+
 
 }
 
@@ -469,6 +473,13 @@ font-weight: 400;
 line-height: 30px;
 text-align: left;
 
+}
+
+.svg-p{
+   position: relative;
+    right: 50px;
+    top: 10px;
+  
 }
 
 .btn-5 {
